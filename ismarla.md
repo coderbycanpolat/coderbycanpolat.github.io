@@ -19,4 +19,4 @@ Hesap Bilgilerim;
 *Benimle İletişime geçmek İçin, **Telegram**'dan Mesaj Gönderebilirsiniz;* [@canpolatgkky](https://t.me/canpolatgkky)
 
 
-<h3 style='text-align: right;'><a style='font-weight: bold;' href='./'>«« 📑Ana Sayfa 📑 »»</a></h3></h3>
+<h3 style='text-align: center;'><a style='font-weight: bold;' href='./'>«« 📑Ana Sayfa 📑 »»</a></h3>

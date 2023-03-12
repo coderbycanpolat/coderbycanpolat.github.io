@@ -2,7 +2,7 @@
 
 * * *
 
-# **[☕️ Kahve Ismarla](./ısmarla.md)**
+# **[☕️ Kahve Ismarla](./ismarla.md)**
 
 * * *
 

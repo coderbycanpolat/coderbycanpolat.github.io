@@ -1,17 +1,8 @@
 # ☕️ Kahve Ismarla
 
-**Çay Çorba Gönlünden Ne Koparsa 🌹**
+**Buraya Kadar Gelmiş Olman Benim İçin Yetiyor Eyvallah 🌹**
 
-* * *
-Hesap Bilgilerim;
-
-* * *
-
-| Banka                | Iban                                       | Ad Soyad            |
-|:---------------------|:----------------------------------------------|:--------------------|
-| **» Papara**         | `2146190740`                                  | *Canpolat Gökkaya* |
-
-
+    
 * * *
 
 ## ♻️ İletişime Geç 
